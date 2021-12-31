@@ -1,12 +1,12 @@
 {
   "author": "N/A",
-  "most_views": "Most views",
-  "newest_articles": "Newest articles",
-  "about_us": "About us",
-  "follow_us": "Follow us",
-  "older_articles": "Older articles",
-  "newer_articles": "Newer articles",
-  "source_url": "Via {{url}}",
-  "footer_description": "Inspiration. Creativity. Wonder.",
+  "most_views": "Xem nhiều nhất",
+  "newest_articles": "Bài viết mới nhất",
+  "about_us": "Về chúng tôi",
+  "follow_us": "Theo dõi chúng tôi",
+  "older_articles": "Bài viết cũ hơn",
+  "newer_articles": "Các bài viết mới hơn",
+  "source_url": "Theo {{url}}",
+  "footer_description": "Trang tổng hợp tin tức giải trí xã hội Việt Nam và Quốc Tế với nhiều lĩnh vực.",
   "facebook_url": "https://www.facebook.com/tinmoi247a"
 }

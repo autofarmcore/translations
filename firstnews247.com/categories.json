@@ -1,11 +1,7 @@
 {
-  "curiosities": "612b3fc878d0890027446cad",
-  "design": "6108b62b8c74aa00273ff3a9",
-  "people": "617d59e2c3f3d300290af56c",
-  "place": "617d59a4c3f3d300290af56a",
-  "sr-originals": "6192743a3e4db200287ca291",
-  "comics": "6192744a3e4db200287ca292",
-  "movie-news": "619274633e4db200287ca293",
-  "international": "619a63aca5154800273e7a8b",
-  "technology": "619f478fa5154800273e7e9d"
+  "hot-news": "6192744a3e4db200287ca292",
+  "world": "612b3fc878d0890027446cad",
+  "culture": "6108b62b8c74aa00273ff3a9",
+  "business": "619a63aca5154800273e7a8b",
+  "social": "619274633e4db200287ca293"
 }
